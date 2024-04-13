@@ -22,7 +22,7 @@ The issue should be fixed. Incase of any further issue, please file a [Bug Repor
 
 #### [Quiz Question Suggestion Template](https://www.youtube.com/watch?v=KrGfq0vXEkc)
 
-#### [Quiz Website](https://kendalldoescoding.tech/pages/quiz/index.html)
+#### [Quiz Website](https://quiz-game-by-kendall.netlify.app/)
 
 #### [Quiz Topics](https://quiz.kendalldoescoding.tech/pages/topics/index.html)
 
